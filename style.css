@@ -100,7 +100,7 @@ footer .footer {
 
 /* Dsktop version */
 
-@media (min-width: 992px) {
+@media (min-width: 576px) {
     .nav-link {
         margin-right: 32px;
         text-transform: uppercase;
