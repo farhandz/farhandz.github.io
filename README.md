@@ -1,5 +1,5 @@
-# virtual healthc
-landing page website
+# virtual healthcare landing page website
+
 https://farhandz.github.io/
 
 #dekstop version 
